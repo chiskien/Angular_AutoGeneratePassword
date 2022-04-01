@@ -1,1 +1,2 @@
-## Automated Generate Password using Angular and TypeScript
+## Password Generator using Angular and TypeScript
+
